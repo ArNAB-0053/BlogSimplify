@@ -2,6 +2,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { ClerkProvider } from "@clerk/nextjs";
 import Header from "@/Components/Header";
+import NextTopLoader from "nextjs-toploader";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,7 +16,8 @@ export default function RootLayout({ children }) {
     <ClerkProvider>
       <html lang="en">
         <body className={`${inter.className} flex flex-col overflow-x-hidden overflow-y-auto`}>
-          <Header/>
+          <NextTopLoader color="#402aff" />
+          <Header />
           {children}
         </body>
       </html>
