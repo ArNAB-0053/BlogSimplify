@@ -20,6 +20,6 @@ BlogSimplify is a blog application built using Next.js and Tailwind CSS for the 
 
 ## Links
 
-Feel free to explore BLOGSIMPLIFY and experience its features live. Visit the website [here](https://share-karo.vercel.app/).
+Feel free to explore BLOGSIMPLIFY and experience its features live. Visit the website [here](https://blog-simplify-sigma.vercel.app/).
 
-Alternatively, you can watch a demo of BLOGSIMPLIFY in action. Check out the demo video [here](https://firebasestorage.googleapis.com/v0/b/sharekaro-f7a3d.appspot.com/o/Sharekaro.mp4?alt=media&token=74b103c2-5e43-49dc-9b45-b6b9e29507ed).
+Alternatively, you can watch a demo of BLOGSIMPLIFY in action. Check out the demo video [here](https://drive.google.com/file/d/11NLWgt9RXy-U1_9w1XPgzOO0nYEugj4m/view?usp=sharing).
